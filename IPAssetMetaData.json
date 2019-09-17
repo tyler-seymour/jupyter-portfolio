@@ -1,0 +1,25 @@
+  {
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "description": "Tyler's Licensed Image",
+    "properties": {
+      "licenseName": {
+        "description": "Tyler's Proprietary NFT License v3",
+        "type": "string"
+      },
+      "licenseURI": {
+        "description": "https://opensource.org/licenses/MIT",
+        "type": "string"
+      },
+      "assetLocation": {
+        "description": "https://news.bitcoin.com/wp-content/uploads/2018/12/grin_mw_logo.png",
+        "type": "string"
+      },
+      "registration": {
+        "description": "Pending Registration",
+        "type": "string"
+      }
+    },
+    "required": ["$schema"],
+    "title": "NFT License",
+    "type": "object",
+}
