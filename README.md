@@ -31,7 +31,7 @@ This server hosts live demos of my python code in Jupyter Notebooks. Click on a 
 
 ### Blockchain Projects
 #### [Non-Fungible Tokens ("NFTy IP")](https://nftyip.stackblitz.io/) 
-⚡️[StackBlitz ](https://stackblitz.com/edit/nftyip) | [NFT Token Tracker](https://ropsten.etherscan.io/address/0x302e107ffc476865dd2d01545b96957f104f5cfc) | [IP Asset Schema](https://github.com/tyler-seymour/jupyter-portfolio/blob/master/IPAssetMetadata.json) ⚡️
+⚡️[StackBlitz ](https://stackblitz.com/edit/nftyip) | [NFT Token Tracker](https://ropsten.etherscan.io/address/0x302e107ffc476865dd2d01545b96957f104f5cfc) | [IP Asset Schema](https://github.com/tyler-seymour/jupyter-portfolio/blob/master/patent-analytics/IPAssetMetadata.json) ⚡️
 
 *Decentralized application for minting intellectual property licenses on the Ethereum blockchain. Issues open source (ex. Creative Commons, MIT) or proprietary IP licenses as ERC-721 non-fungible tokens that are transferable peer-to-peer. Deployed to Ropsten test network.*   
 > - **0xCert** asset management framework and smart contracts;
