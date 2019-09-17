@@ -22,7 +22,7 @@ This server hosts live demos of my python code in Jupyter Notebooks. Click on a 
 
 #### [Patent Analytics Notebook ("Techno Clusters")](https://tylerseymour.pw/user-redirect/notebooks/Patent-Analytics_Topic-Modeling-Gensim-TextBlob.ipynb)
 
-⚡️ [eBay Patent Maintenance Report](./publications/eBay-Predictive-Patent-Maintenance-Report.docx) | [Patent Classification Models](./publications/Patent-Classifiers.pdf) ⚡️
+⚡️ [eBay Patent Maintenance Report](https://github.com/tyler-seymour/jupyter-portfolio/blob/master/publications/eBay-Predictive-Patent-Maintenance-Report.docx) | [Patent Classification Models](https://github.com/tyler-seymour/jupyter-portfolio/blob/master/publications/Patent-Classifiers.pdf) ⚡️
 
 *Natural language processing and topic modeling techniques are used to cluster 1000 patent abstracts using latent dirichlet allocation ("LDA").* 
 > - **Gensim** for TF-IDF and Bag-of-Words/LDA models;
@@ -31,7 +31,7 @@ This server hosts live demos of my python code in Jupyter Notebooks. Click on a 
 
 ### Blockchain Projects
 #### [Non-Fungible Tokens ("NFTy IP")](https://nftyip.stackblitz.io/) 
-⚡️[StackBlitz ](https://stackblitz.com/edit/nftyip) | [NFT Token Tracker](https://ropsten.etherscan.io/address/0x302e107ffc476865dd2d01545b96957f104f5cfc) | [IP Asset Schema](./IPAssetMetadata.json) ⚡️
+⚡️[StackBlitz ](https://stackblitz.com/edit/nftyip) | [NFT Token Tracker](https://ropsten.etherscan.io/address/0x302e107ffc476865dd2d01545b96957f104f5cfc) | [IP Asset Schema](https://github.com/tyler-seymour/jupyter-portfolio/blob/master/IPAssetMetadata.json) ⚡️
 
 *Decentralized application for minting intellectual property licenses on the Ethereum blockchain. Issues open source (ex. Creative Commons, MIT) or proprietary IP licenses as ERC-721 non-fungible tokens that are transferable peer-to-peer. Deployed to Ropsten test network.*   
 > - **0xCert** asset management framework and smart contracts;
@@ -39,17 +39,17 @@ This server hosts live demos of my python code in Jupyter Notebooks. Click on a 
 > - **NES.css** for frontend design and interface;  
 
 #### [Patent Prediction Markets ("Patent.pm")](https://tyler-seymour.github.io/ipx-homepage/) 
-⚡️[IP Gold Token](https://etherscan.io/token/0xdd85758b29b80231549a09c0803260e59b48339c) | [Patent Futures Exchange](./publications/IPX-Patent-Futures-Brochure.pdf) | [Whitepaper](./publications/IPX-Patent-Futures.pdf) | [Enterprise](./publications/Enterprise-Prediction-Markets.pdf) | [Deck](./publications/Enterprise-Prediction-Market-Slides.pdf) ⚡️  
+⚡️[IP Gold Token](https://etherscan.io/token/0xdd85758b29b80231549a09c0803260e59b48339c) | [Patent Futures Exchange](https://github.com/tyler-seymour/jupyter-portfolio/blob/master/publications/IPX-Patent-Futures-Brochure.pdf) | [Whitepaper](https://github.com/tyler-seymour/jupyter-portfolio/blob/master/publications/IPX-Patent-Futures.pdf) | [Enterprise](https://github.com/tyler-seymour/jupyter-portfolio/blob/master/publications/Enterprise-Prediction-Markets.pdf) | [Deck](https://github.com/tyler-seymour/jupyter-portfolio/blob/master/publications/Enterprise-Prediction-Market-Slides.pdf) ⚡️  
 
 *Patent invalidation and prior art platform. Users earn IP Gold by submitting prior art that suggests an invention is not novel, or by wagering that a patent is valid or invalid. IP Gold creates an incentive for public participation in patent examination. Prediction markets provide a crowdsourced forecast of patent validity and a public incentive to increase patent quality by submitting invalidating prior art.* 
 
 ### Publications & Other Work Product
 
 ##### Copyright Infringement
-> ###### 🚀 [Swarm Joinder of Anonymous Defendants in BitTorrent Litigation](./publications/Swarm-Joinder-BitTorrent-Litigation.docx)
-> ###### 🚀 [Copyright Infringement using Popcorn Time](./publications/Popcorn-Time-Litigation.docx)
+> ###### 🚀 [Swarm Joinder of Anonymous Defendants in BitTorrent Litigation](https://github.com/tyler-seymour/jupyter-portfolio/blob/master/publications/Swarm-Joinder-BitTorrent-Litigation.docx)
+> ###### 🚀 [Copyright Infringement using Popcorn Time](https://github.com/tyler-seymour/jupyter-portfolio/blob/master/publications/Popcorn-Time-Litigation.docx)
 
 ##### Public Records
-> ###### 🚀 [CPRA Request for Private Email Records](./publications/California-Public-Records-Act-Request.pdf)
+> ###### 🚀 [CPRA Request for Private Email Records](https://github.com/tyler-seymour/jupyter-portfolio/blob/master/publications/California-Public-Records-Act-Request.pdf)
 > ###### 🚀 [SF Marauder's Map: Police Incident Reports x Registered Private Cameras](https://tyler-seymour.github.io/SF-MauradersMap/)
 
