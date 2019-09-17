@@ -1,26 +1,26 @@
 # Tyler Seymour's Portfolio
 
-### [Email](tylerseymour@protonmail.com) | [Github](https://github.com/tyler-seymour) | [LinkedIn](https://linkedin.com/in/tylerseymour1/) | [JupyterHub](https://tylerseymour.pw)
+### [Email](tylerseymour@protonmail.com) | [Github](https://github.com/tyler-seymour) | [LinkedIn](https://linkedin.com/in/tylerseymour1/) | [JupyterHub](https://tylerseymour.pw/user-redirect/notebooks/README.ipynb)
 
 This server hosts live demos of my python code in Jupyter Notebooks. Click on a project below to get started!
 
 ## Python & NLP
 
-#### [Computational Linguistics Notebook ("Hacking Buddhist Texts")](./Computational-Linguistics_Chinese-NLP-Pandas-SpaCy-ZH.ipynb)
+#### [Computational Linguistics Notebook ("Hacking Buddhist Texts")](https://tylerseymour.pw/user-redirect/notebooks/Computational-Linguistics_Chinese-NLP-Pandas-SpaCy-ZH.ipynb)
 *Improving Part-of-Speech and Dependency Tagging of Pre-Modern Literary Chinese Texts. Modern NLP models are improved by hand-labeled linguistic annotations by a subject matter expert.*
 > - **spaCy** for part-of-speech and named entity recognition engine;
 > - **zh_core_web_sm** for modern Chinese language spaCy models and POS tags;  
 > - **Pandas** for building data structure of linguistic embeddings;
 > - **displaCy** for visualizing part-of-speech and dependency tags.  
 
-#### [Network Graph Analysis Notebook ("FleaBay")](./FleaBay_OSINT-Fraud-Pandas-NetworkX.ipynb)
+#### [Network Graph Analysis Notebook ("FleaBay")](https://tylerseymour.pw/user-redirect/notebooks/FleaBay_OSINT-Fraud-Pandas-NetworkX.ipynb)
 *OSINT workflow for investigating eCommerce fraud networks. Maps buyers to sellers using publicly available feedback and reviews, allowing investigators to track fake review networks and money laundering paths between usernames.*
 > - **NetworkX** for constructing graph network and calculating shortest distance between nodes;
 > - **Pandas** for scraping and cleaning transaction reviews;
 > - **Matplotlib** for static node and edge visualization;
 > - **pyVis** for interactive network graph visualization. 
 
-#### [Patent Analytics Notebook ("Techno Clusters")](./Patent-Analytics_Topic-Modeling-Gensim-TextBlob.ipynb)
+#### [Patent Analytics Notebook ("Techno Clusters")](https://tylerseymour.pw/user-redirect/notebooks/Patent-Analytics_Topic-Modeling-Gensim-TextBlob.ipynb)
 
 ⚡️ [eBay Patent Maintenance Report](./publications/eBay-Predictive-Patent-Maintenance-Report.docx) | [Patent Classification Models](./publications/Patent-Classifiers.pdf) ⚡️
 
