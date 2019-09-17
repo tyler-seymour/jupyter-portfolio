@@ -29,9 +29,9 @@ This server hosts live demos of my python code in Jupyter Notebooks. Click on a 
 > - **TextBlob** for part-of-speech tagging and noun extraction;
 > - **pyLDAviz** for interactive intertopic distance map. 
 
-### Blockchain Projects
+## Blockchain Projects
 #### [Non-Fungible Tokens ("NFTy IP")](https://nftyip.stackblitz.io/) 
-⚡️[StackBlitz ](https://stackblitz.com/edit/nftyip) | [NFT Token Tracker](https://ropsten.etherscan.io/address/0x302e107ffc476865dd2d01545b96957f104f5cfc) | [IP Asset Schema](https://github.com/tyler-seymour/jupyter-portfolio/blob/master/IPAssetMetadata.json) ⚡️
+⚡️[StackBlitz ](https://stackblitz.com/edit/nftyip) | [NFT Token Tracker](https://ropsten.etherscan.io/address/0x302e107ffc476865dd2d01545b96957f104f5cfc) | [IP Asset Schema](https://github.com/tyler-seymour/jupyter-portfolio/blob/master/patent-analytics/IPAssetMetadata.json) ⚡️
 
 *Decentralized application for minting intellectual property licenses on the Ethereum blockchain. Issues open source (ex. Creative Commons, MIT) or proprietary IP licenses as ERC-721 non-fungible tokens that are transferable peer-to-peer. Deployed to Ropsten test network.*   
 > - **0xCert** asset management framework and smart contracts;
@@ -43,7 +43,7 @@ This server hosts live demos of my python code in Jupyter Notebooks. Click on a 
 
 *Patent invalidation and prior art platform. Users earn IP Gold by submitting prior art that suggests an invention is not novel, or by wagering that a patent is valid or invalid. IP Gold creates an incentive for public participation in patent examination. Prediction markets provide a crowdsourced forecast of patent validity and a public incentive to increase patent quality by submitting invalidating prior art.* 
 
-### Publications & Other Work Product
+## Publications & Other Work Product
 
 ##### Copyright Infringement
 > ###### 🚀 [Swarm Joinder of Anonymous Defendants in BitTorrent Litigation](https://github.com/tyler-seymour/jupyter-portfolio/blob/master/publications/Swarm-Joinder-BitTorrent-Litigation.docx)
