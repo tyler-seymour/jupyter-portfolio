@@ -1,6 +1,6 @@
 # Tyler Seymour's Portfolio
 
-### [Email](tylerseymour@protonmail.com) | [Github](https://github.com/tyler-seymour) | [LinkedIn](https://linkedin.com/in/tylerseymour1/) | [JupyterHub](https://tylerseymour.pw/user-redirect/notebooks/README.ipynb)
+### [Email](mailto:tylerseymour@protonmail.com) | [Github](https://github.com/tyler-seymour) | [LinkedIn](https://linkedin.com/in/tylerseymour1/) | [JupyterHub](https://tylerseymour.pw/user-redirect/notebooks/README.ipynb)
 
 This server hosts live demos of my python code in Jupyter Notebooks. Click on a project below to get started!
 
