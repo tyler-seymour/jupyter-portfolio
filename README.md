@@ -6,7 +6,7 @@ This server hosts live demos of my python code in Jupyter Notebooks. Click on a 
 
 ## Python & NLP
 
-#### [Computational Linguistics Notebook ("Hacking Buddhist Texts")](https://tylerseymour.pw/user-redirect/notebooks/Computational-Linguistics_Chinese-NLP-Pandas-SpaCy-ZH.ipynb)
+#### [Computational Linguistics Notebook ("Hacking Buddhist Texts")](https://mybinder.org/v2/gh/catshowjudge/Chinese-NLP_Buddhist-Texts/master?filepath=Computational-Linguistics_Buddhist-Texts_Chinese-NLP-Pandas-SpaCy-displaCy.ipynb)
 *Improving Part-of-Speech and Dependency Tagging of Pre-Modern Literary Chinese Texts. Modern NLP models are improved by hand-labeled linguistic annotations by a subject matter expert.*
 > - **spaCy** for part-of-speech and named entity recognition engine;
 > - **zh_core_web_sm** for modern Chinese language spaCy models and POS tags;  
